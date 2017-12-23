@@ -1,0 +1,112 @@
+
+---- Votes and Modules ----
+default: |NEUTRAL|
+onedamage: |default|MASK|
+one: |default|MASK|
+SHOW -shown(2)
+NEUTRAL -shown(0)
+oneid: |default|MASK|
+MASK -hidden(1)
+--------   Rules   --------
+hide: |MASK|MASK|default|MASK|MASK|default|default|default|default|
+keep-one: |one|one|default|one|one|default|default|default|default|
+keep-oned: |onedamage|onedamage|default|onedamage|onedamage|default|default|default|default|
+keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
+keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
+show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
+----------------------------------------------------
+2252 items registered
+5 filters loaded
+87 items matched in 13 ms
+----------------------------------------------------
+
+- bibliocraft :
+	+ armorstand:                               	keep:[0]
+	+ atlasbook:                                	keep:[0]
+	+ atlasplate:                               	keep:[0]
+	+ bell:                                     	keep:[0]
+	+ bibliochase:                              	keep:[0]
+	+ biblioclipboard:                          	keep:[0]
+	+ bibliocreativelock:                       	keep:[0]
+	+ bibliodrill:                              	keep:[0]
+	+ biblioglasses:                            	keep:[0]
+	+ biblioredbook:                            	keep:[0]
+	+ bigbook:                                  	keep:[0]
+	+ bookcase:                                 	keep:[0]
+	+ bookcasecreative:                         	keep:[0]	hide:[]
+	+ case:                                     	keep:[0]
+	+ clipboard:                                	keep:[0]	hide:[]
+	+ clock:                                    	keep:[0]
+	+ compass:                                  	keep:[0]
+	+ cookiejar:                                	keep:[0]
+	+ deathcompass:                             	keep:[0]
+	+ desk:                                     	keep:[0]
+	+ dinnerplate:                              	keep:[0]
+	+ discrack:                                 	keep:[0]
+	+ enchantedplate:                           	keep:[0]
+	+ fancysign:                                	keep:[0]
+	+ fancyworkbench:                           	keep:[0]
+	+ framedchest:                              	keep:[0]
+	+ framingboard:                             	keep:[0]
+	+ framingsaw:                               	keep:[0]
+	+ framingsheet:                             	keep:[0]
+	+ furniturepaneler:                         	keep:[0]
+	+ handdrill:                                	keep:[0]
+	+ label:                                    	keep:[0]
+	+ lampgold:                                 	keep:[0]
+	+ lampiron:                                 	keep:[0]
+	+ lanterngold:                              	keep:[0]
+	+ lanterniron:                              	keep:[0]
+	+ mapframe:                                 	keep:[0]
+	+ maptool:                                  	keep:[0]
+	+ markerpole:                               	keep:[0]	hide:[]
+	+ paintingcanvas:                           	keep:[0]
+	+ paintingframeborderless:                  	keep:[0]
+	+ paintingframefancy:                       	keep:[0]
+	+ paintingframeflat:                        	keep:[0]
+	+ paintingframemiddle:                      	keep:[0]
+	+ paintingframesimple:                      	keep:[0]
+	+ paintingpress:                            	keep:[0]
+	+ plumbline:                                	keep:[0]
+	+ potionshelf:                              	keep:[0]
+	+ printingpress:                            	keep:[0]
+	+ printplate:                               	keep:[0]
+	+ recipebook:                               	keep:[0]
+	+ seat:                                     	keep:[0]
+	+ seatback1:                                	keep:[0]
+	+ seatback2:                                	keep:[0]
+	+ seatback3:                                	keep:[0]
+	+ seatback4:                                	keep:[0]
+	+ seatback5:                                	keep:[0]
+	+ shelf:                                    	keep:[0]
+	+ slottedbook:                              	keep:[0]
+	+ stockroomcatalog:                         	keep:[0]
+	+ swordpedestal:                            	keep:[0]
+	+ table:                                    	keep:[0]
+	+ tape:                                     	keep:[0]
+	+ tapemeasure:                              	keep:[0]
+	+ testeritem:                               	keep:[0]
+	+ toolrack:                                 	keep:[0]
+	+ typesettingtable:                         	keep:[0]
+	+ typewriter:                               	keep:[0]
+- forge :
+	+ bucketfilled:                             	keep-one:[]
+- minecraft :
+	+ arrow:                                    	keep-one:[0]
+	+ banner:                                   	keep:[0]
+	+ book:                                     	keep-one:[0]
+	+ carpet:                                   	keep:[0]
+	+ enchanted_book:                           	keep-one:[0]
+	+ knowledge_book:                           	keep-one:[0]
+	+ lingering_potion:                         	keep-one:[0]
+	+ potion:                                   	keep-one:[0]
+	+ spawn_egg:                                	keep-one:[0]
+	+ spectral_arrow:                           	keep-one:[0]
+	+ splash_potion:                            	keep-one:[0]
+	+ stained_glass:                            	keep:[0]
+	+ stained_glass_pane:                       	keep:[0]
+	+ stained_hardened_clay:                    	keep:[0]
+	+ tipped_arrow:                             	keep-one:[0]
+	+ wool:                                     	keep:[0]
+	+ writable_book:                            	keep-one:[0]
+	+ written_book:                             	keep-one:[0]
