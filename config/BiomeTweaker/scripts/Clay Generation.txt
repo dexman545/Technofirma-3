@@ -1,0 +1,8 @@
+Tweaker.setPlacementStage("POST_ORES")
+clayGen = newOreDecoration()
+clayGen.setCount(10)
+clayGen.setBlock("primal:terraclay_block")
+clayGen.setSize("40")
+clayGen.setBlockToReplace("minecraft:grass")
+clayGen.setBlockToReplace("minecraft:dirt")
+clayGen.setBlockToReplace("minecraft:dirt:1")
