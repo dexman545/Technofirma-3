@@ -1,0 +1,35 @@
+Force furnaces and such to have chimneys
+Calliper is dev tool
+ceramics has good fluid transport
+Charcoal pit = TFC charcoal, better coke and creosole production
+
+ExternalTweaker is dev tool
+	It is a program and mod for mking scripts
+
+Double check new health system of FirstAid mod
+Need to configure primalCore
+	May have redundent features
+
+
+
+//Config changes of note
+Nether disabled via knob control
+Need to decide if enabling keep inventory (knob control)
+No fast leaf decay
+	conflicts with dynamic trees
+
+Peaceful surface added
+	Should find betetr mods for mobs
+
+Increased ticket count in forgeChunkLoading.cfg
+	Imporves performance and CPU load
+	May not want to distribute this version
+
+Disabled Hunger Overhaul due to it preventing eating
+Food rot from BetetrWithAddons
+
+Disabled need for mortar to make cobblestone as clay is too hard to obtain
+	Possible fix: clay pockets spawn like in TFC
+	
+Tree death enabled
+	Cause its interesting
