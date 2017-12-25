@@ -33,12 +33,7 @@ Find a solution to hostiles spawning in daylight due to canopy coverage
 	Possibly Peaeful Surface
 Optimize world generation
 	Dynamic trees causes some lag, try to fix
-Check what aquaducts are
-	betterwithaddons
 Finish writing todo
-Make furnace more obtainable in early game
-	perhaps reenable cobble drops, and leave mortar solely for bricks
-	surface clay is too rare
 Figure out food rot
 Use aquaducts to move water around early game
 Configuer tech tree

@@ -1,0 +1,142 @@
+<book title="Survival Guide WIP">
+
+	<chapter id="Health and Body">
+		<page>
+			<p>The experienced Minecrafter will notice that their health bar is gone, replaced with a system on the right of various body parts, each with their own health. Press H to find out more.</p>
+			<p>Oh, watch out for thirst and your body’s temperature (icon in the center above hotbar), you want that to stay a nice, healthy gray (you’re such an Asgard). If you get cold, a firebow can be used to make a fire.</p>
+			<p>Find food! Some animals fight back, but luckily there are little gardens scattered about the land</p>
+		</page>
+	</chapter>
+	
+	<chapter id="Finding a Home">
+		<page>
+			<p>While you are out gathering, it is important to find a place to settle. Now, don’t think that you’ll be forever stuck at that place (horse drawn carriages or trains can help you move) because you will be traveling fairly often to find all the materials you need to thrive. When you start, you’ll want to find a place that is not too cold (so not the top of a mountain), is near water (doesn’t have to be right on it, you can make aqueducts later), and provides access to wood and food.</p>
+			<p>Being near a surface vein of coal would be a bonus.</p>
+		</page>
+	</chapter>
+	
+	<chapter id="Making Something of Yourself (you're going to college)">
+		<page id="The First Day">
+			<p bold="true">**Note: Punching wood is useless**</p>
+			<p>To begin, you’ll want to find gather some flint, sticks, plant fiber, seeds, and sand. </p>
+			<p>Sticks can be found on the ground or by breaking leaves. These are important, but should be of a lower priority to gravel.</p>
+			<p>Flint can be found as the flat rocks on the ground, or from gravel.</p>
+			<p>Gravel, like clay and sand, can be found in world. When you break it, you will obtain gravel piles. Craft these into gravel, and then sift through it for flint by placing two gravel diagonally in your crafting grid.</p>
+			<p>Plant fiber is obtained through tall grass, vines, and such.</p>
+			<p>Once you have some flint (you’ll want a bit of it), find yourself some stone in world. Start hitting the flint against it (don’t hold left click) until you get yourself some flaked flint. This is knapping. </p>
+			<p>Now, make yourself a flint hatchet. Begin gathering some wood. Breaking the bottom block of a tree should chop down all of it, though a few are particularly magical….</p>
+			<p>Now, apply the hatchet to the log in your crafting grid to obtain a basic crafting table. Make a work blade, pickaxe, and anything else you want.</p>
+			<p>So, you have a pickaxe and you think you’re ready for mining? Ha! More stuff to do. First, go back out there and gather more wood and plant fiber. Also, start farming now with hat seeds you’ve gathered, food is always better than starvation.</p>
+			<p>Though, getting a furnace and some bottles could satiate your thirst…</p>
+		</page>
+		<page id="Finding Ores, Water, and Caves">
+			<p>Now that you have a pickaxe, it is time to begin preparing for a trip into the depths. If you have acces to coal, make yourself some unlit torches. If you don't have coal, you'll need to make charcoal to do that (see next section)</p>
+			<p space="10">Note: you can find the information about where to ind ores in JEI by looking at how to make the ore.</p>
+			<p space="10">Only the required condition is needed for the ore to spawn, the bonus simply indicates if there is more ore than normal</p>
+			
+			<p bold="true">Coal</p>
+			<p indent="10">Required conditions: Stone base rock and thick topsoil layer.</p>
+			<p indent="10" space="10">Bonus conditions: Wet climate and bowl-like depressions in the ground.</p>
+			
+			<p bold="true">Iron</p>
+			<p indent="10">Required conditions: Stone base rock and hilly or mountainous.</p>
+			<p indent="10" space="10">Bonus conditions: Smooth land with no visible erosion and with lava lakes or obsidian on the surface.</p>
+			
+			<p bold="true">Gold</p>
+			<p indent="10">Required conditions: Granite base rock and deep eroded canyons.</p>
+			<p indent="10">Bonus conditions: Cold climate and hilly or mountainous.</p>
+			<p indent="10" space="10">Notes: Look for the stone strata layer in the granite base rock.</p>
+			
+			<p bold="true">Redstone</p>
+			<p indent="10">Required conditions: Granite base rock and hilly or mountainous.</p>
+			<p indent="10" space="10">Bonus conditions: Dry climate and very thin topsoil layer.</p>
+			
+			<p bold="true">Lapis</p>
+			<p indent="10">Required: Granite base rock</p>
+			<p indent="10" space="10">Note: Look for andesite strata layer</p>
+			
+			<p bold="true">Emerald</p>
+			<p indent="10">Required: Granite or diorite base rock</p>
+			<p indent="10" space="10">Notes: Look for andesite strata layer. This ore is sparse.</p>
+			
+			<p bold="true">Quartz</p>
+			<p indent="10">Required conditions: Diorite base rock and smooth land that is far from any visible erosion.</p>
+			<p indent="10">Bonus conditions: Very thin topsoil layer and no lava lakes or surface obsidian.</p>
+			<p indent="10" space="10">Notes: Look for the granite strata layer of the diorite base rock.</p>
+			
+			<p bold="true">Diamond</p>
+			<p indent="10">Required conditions: Diorite base rock and lava lakes (possibly surface obsidian).</p>
+			<p indent="10" space="10">Notes: Diamonds are deeper underground and uniformly spread out.</p>
+			
+			<p bold="true">Glowstone</p>
+			<p indent="10" space="10">Required conditions: Deep eroded canyons, no lava lakes, and thick topsoil layer.</p>
+			
+			<p bold="true">Clay</p>
+			<p indent="10">Required conditions: Sandstone base rock and wet climate.</p>
+			<p indent="10">Bonus conditions: Bowl-like depressions in the ground (may be filled with water) and very thin topsoil layer.</p>
+			<p indent="10" space="10">Notes: Look for white terracotta strata layer in sandstone base rock.</p>
+			
+			<p bold="true">Copper</p>
+			<p indent="10">Required conditions: Granite base rock and hilly or mountainous.</p>
+			<p indent="10" space="10">Bonus conditions: Dry climate and no lava lakes or surface obsidian.</p>
+			
+			<p bold="true">Tin</p>
+			<p indent="10">Required conditions: Granite base rock and wet climate.</p>
+			<p indent="10">Bonus conditions: Deep eroded canyons and lava lakes or surface obsidian.</p>
+			<p indent="10" space="10">Note: Does not currently exist.</p>
+			
+			<p bold="true">Bauxite (Aluminium)</p>
+			<p indent="10">Required conditions: Sandstone base rock and very hot climate.</p>
+			<p indent="10" space="10">Bonus conditions: Smooth land with no visible erosion and thick topsoil layer.</p>
+			
+			<p bold="true">Lead</p>
+			<p indent="10">Required conditions: Diorite base rock and lava lakes.</p>
+			<p indent="10" space="10">Bonus conditions: Deep eroded canyons and thin topsoil layer.</p>
+			
+			<p bold="true">Silver</p>
+			<p indent="10">Required conditions: Stone base rock and cold climate.</p>
+			<p indent="10">Bonus conditions: Deep eroded canyons and hilly or mountainous.</p>
+			<p indent="10" space="10">Notes: Look for the andesite strata layer in the stone base rock.</p>
+			
+			<p bold="true">Nickel</p>
+			<p indent="10">Required conditions: Sandstone base rock and flat plains or bowl-like depressions in the ground.</p>
+			<p indent="10" space="10">Bonus conditions: Wet climate and no lava lakes or surface obsidian.</p>
+			
+			<p bold="true">Uranium</p>
+			<p indent="10"> Required conditions: Stone base rock and very thin topsoil layer.</p>
+			<p indent="10" space="10">Bonus conditions: Wet climate and no lava lakes or surface obsidian.</p>
+			
+			<p bold="true">Caves</p>
+			<p indent="10" space="10">As erosion increases, the frequency and size of caves increases. Surface entrances are almost non-existent, sometimes they can be found underwater in eroded areas. Caves do not usually extend up into the topsoil layer so you have to dig down into the rock below the soil.</p>
+			
+			<p bold="true">Coastline, Ocean, and Water in General</p>
+			<p indent="10">Look for fairly straight fault lines running across the terrain and sometimes across water. These fault lines will be one block higher on one side. Go in the direction that the blocks step down to eventually find ocean. Keep looking for more fault lines on your way to ensure you are continuing in the right direction. Go in the opposite direction to go to higher elevations.</p>
+			<p indent="10" space="10">Basically, head downhill.</p>
+			
+			<p bold="true"></p>
+			<p indent="10"></p>
+			<p indent="10" space="10"></p>
+		</page>
+		
+		<page id="Charcoal Creation">
+			<p>Coal is great and all, but it has far too many impurities to be useful in smithing. Charcoal works better, though the wood used can efefct it...</p>
+			<p>To make charcoal, a normal log is not very useful. You'll need to process it a bit. First, Place the log in world, then hold shift and repeatedly right click with your work blade to remove the bark. Once this is done, repeatedly right click with your axe to chop the log into pieces.</p>
+			<p>These pieces are then crafted into a log pile. Place several of these in a hole, light it on fire, then quickl cover it with dirt. Wait until you no longer see smoke.</p>
+			<p>Now, just dig it up and enjoy your charcoal!</p>
+		</page>
+		
+	</chapter>
+	
+	<chapter id="Forging">
+		<page>
+			<p>Now that you have some ores and light, you probably want to get yourself out of the stone age, right? To do that, you need a bloomery, iron, charcoal, and a forge.</p>
+		</page>
+	</chapter>
+	
+	<chapter id="Health and Body">
+		<page>
+			<p></p>
+		</page>
+	</chapter>
+	
+</book>
