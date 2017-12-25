@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<minecraft:diamond_pickaxe>);
 recipes.remove(<toughasnails:wool_boots>);
 recipes.remove(<toughasnails:wool_leggings>);
 recipes.remove(<toughasnails:wool_chestplate>);
