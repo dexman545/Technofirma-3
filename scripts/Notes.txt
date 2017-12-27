@@ -33,3 +33,5 @@ Disabled need for mortar to make cobblestone as clay is too hard to obtain
 	
 Tree death enabled
 	Cause its interesting
+
+Enabled natural regen, but halved its effectiveness
