@@ -1,0 +1,28 @@
+Version 3.1.0
+
+Made pit kilns take dry thatch instead of hay bales
+Disabled body temperature
+Enabled natural regeneration, but at half efectiveness
+Removed wooden buckets and VEFluidHandler
+	Not being able to move water until later is better for gameplay
+Added Nutirition
+	Nutrition as in TFC
+Added bottle pit kiln recipe
+	One sand pile to one bottle
+Added hemp to naturally generate as it was impossible to get before
+Disabled clay buckets
+Made cobblestone require mortar as pit kilns are a thing
+Reduced thatch dry time from 40 to 25
+Added WanionLib
+Added UniDict
+Reduced drying rack base time from 1000 to 800
+Updated mods
+Added slurp
+	Adds the ability to drink water by hand
+Added Teckle
+	Pipes and sorting for items
+Increased energy loss of IE cables to encourage ue of higher voltages
+Lowered max transfer rate for copper and electrum wires
+Increased energy costs
+	Needs further tweaking
+Updated the Guidebook

@@ -34,6 +34,7 @@ recipes.remove(<minecraft:crafting_table>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<firstaid:bandage>, [[<ore:string>, null, <ore:string>], [<betterwithaddons:wool:*>, <betterwithaddons:wool:*>, <betterwithaddons:wool:*>], [<ore:string>, null, <ore:string>]]);
 recipes.addShaped(<toughasnails:wool_boots>, [[<ore:cloth>, <ore:cloth>], [<betterwithaddons:wool:*>, <betterwithaddons:wool:*>]]);
 recipes.addShaped(<toughasnails:wool_leggings>, [[<ore:cloth>, <ore:cloth>, <ore:cloth>], [<primal:plant_cloth>, <betterwithaddons:wool:*>, <ore:cloth>], [<ore:cloth>, <betterwithaddons:wool:*>, <ore:cloth>]]);
 recipes.addShaped(<toughasnails:wool_chestplate>, [[<ore:cloth>, null, <ore:cloth>], [<ore:cloth>, <betterwithaddons:wool:*>, <ore:cloth>], [<ore:cloth>, <betterwithaddons:wool:*>, <ore:cloth>]]);

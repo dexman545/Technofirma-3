@@ -10,3 +10,13 @@ clayGen.addBlockToReplace("minecraft:dirt")
 clayGen.addBlockToReplace("minecraft:dirt:1")
 
 all.addDecoration(clayGen)
+
+Tweaker.setPlacementStage("POST_ORES")
+hempGen = newClusterDecoration()
+hempGen.setCount(10)
+hempGen.setBlock("contenttweaker:hempflower")
+hempGen.setRadius(20)
+hempGen.addSoilBlock("minecraft:grass")
+
+
+all.addDecoration(hempGen)
