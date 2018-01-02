@@ -16,3 +16,4 @@ mods.jei.JEI.addDescription(<immersiveengineering:ore:2>, ["Required conditions:
 mods.jei.JEI.addDescription(<immersiveengineering:ore:3>, ["Required conditions: Stone base rock and cold climate.", "Bonus conditions: Deep eroded canyons and hilly or mountainous.", "  Notes: Look for the andesite strata layer in the stone base rock."]);
 mods.jei.JEI.addDescription(<immersiveengineering:ore:4>, ["  Required conditions: Sandstone base rock and flat plains or bowl-like depressions in the ground.", "Bonus conditions: Wet climate and no lava lakes or surface obsidian."]);
 mods.jei.JEI.addDescription(<immersiveengineering:ore:5>, ["Required conditions: Stone base rock and very thin topsoil layer.", "  Notes: Uranium is very sparse."]);
+//mods.jei.JEI.addDescription(<crossroads:ore_tin>, "Below y30");

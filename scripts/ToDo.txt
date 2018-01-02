@@ -38,6 +38,19 @@ Figure out food rot
 Use aquaducts to move water around early game
 Configuer tech tree
 Add something after IE, make it a better end goal
+Remove wooden buckets, or at least remove moving water early game
+Use Unidict to make forgecraft iron the default
+Check out
+	Magneticcraft
+	CrossRoads
+		nerf the ore doubling in it
+		want to encourage use of IE, this mod could be middle tier
+		Perhaps remove magic system
+		Adds tin, and neds bronze. Check that tin spawns and disable its recipes for forgecraft ones
+		Modify heat cables to be slightly cheaper
+		Use this to produce more things faster than FC, but still encourage IE promotion
+	Mekanism
+Add an upgraded storage mod
 Tech tree
 	Primal Core
 	Forgecraft
