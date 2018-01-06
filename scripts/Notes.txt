@@ -35,3 +35,5 @@ Tree death enabled
 	Cause its interesting
 
 Enabled natural regen, but halved its effectiveness
+
+EcoMod ASM for leaves takes a signifigant portion of CPU, same for llwgl

@@ -26,3 +26,4 @@ Lowered max transfer rate for copper and electrum wires
 Increased energy costs
 	Needs further tweaking
 Updated the Guidebook
+Switched FoamFIx to lawful version as ASM is a bitch
