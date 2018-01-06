@@ -50,7 +50,9 @@ Check out
 		Modify heat cables to be slightly cheaper
 		Use this to produce more things faster than FC, but still encourage IE promotion
 	Mekanism
+	Wizardry
 Add an upgraded storage mod
+Make BWM saw output more wood
 Tech tree
 	Primal Core
 	Forgecraft
