@@ -1,6 +1,3 @@
-Disable all ore gen except from dooglamoo
-	This is because it is the closest to actual TFC oregen
-Try to improve ore gen
 Better way to get water early game
 	Better filter recipe
 		sugarcane is very specific
@@ -9,37 +6,22 @@ Better way to get water early game
 Use plate press to produce metal tools after industrialization
 	Make them be damaged to start off with
 		Mass production vs. quality
-Create guidebook for how to start/useful info
 Force furnaces and such to have chimneys
 Figure out why HungerOverhaul makes eating some foods impossible
 	Fix, if possible and re add
 Nerf vanilla furnace?
 	Help promote industrialization
 Make sure all machines properly produce pollution
-Find pro. pick mod
-	If impossible
-		Configure Scenter for all ores
-			Possibly add clay as well
-			could group similar ores together to try and balance it better
-Test if terrain feature ore generation works
-	See dooglamoo for info
 Add a gravestone mod or enable keepInventory?
 Modify main menu
 Tweak recipes that use wool due to Animania/BWM nerf
 Encourage use of horse cart/carriage w/ chest for early game transport
 	Then trains!
 Block physics
-Find a solution to hostiles spawning in daylight due to canopy coverage
-	Possibly Peaeful Surface
-Optimize world generation
-	Dynamic trees causes some lag, try to fix
-Finish writing todo
 Figure out food rot
 Use aquaducts to move water around early game
 Configuer tech tree
 Add something after IE, make it a better end goal
-Remove wooden buckets, or at least remove moving water early game
-Use Unidict to make forgecraft iron the default
 Check out
 	Magneticcraft
 	CrossRoads
@@ -53,12 +35,9 @@ Check out
 	Wizardry
 Add an upgraded storage mod
 Make BWM saw output more wood
-Tech tree
-	Primal Core
-	Forgecraft
-		Bronze
-		Iron
-		Steel
-	Beter With Mods
-	IE
+Add betweenlands
+	Make this the rubber wall
+	could be tech wall for TC
+	
+Make IE wires need rubber
 	

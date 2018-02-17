@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "FOREST",
     "SPOOKY",
-    "DENSE",
-    "FOREST"
+    "DENSE"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -62,25 +62,25 @@
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowOldSpot",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowLargeWhite",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenWyandotte",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenRhodeIslandRed",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -88,7 +88,7 @@
       "Entity Class": "com.animania.common.entities.cows.EntityCowHolstein",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.sheep.EntityEweJacob",

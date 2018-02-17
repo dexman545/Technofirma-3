@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "COLD",
-    "CONIFEROUS",
     "FOREST",
-    "HILLS"
+    "HILLS",
+    "CONIFEROUS",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -71,25 +71,25 @@
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowOldSpot",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowLargeWhite",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenWyandotte",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenRhodeIslandRed",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -97,13 +97,19 @@
       "Entity Class": "com.animania.common.entities.cows.EntityCowHolstein",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.cows.EntityCowHereford",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.animania.common.entities.cows.EntityCowHighland",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.goats.EntityDoeAlpine",
@@ -157,19 +163,13 @@
       "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "nmd.primal.core.common.entities.living.EntityBrownBear",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
+      "Max Group Count": 5
     },
     {
       "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
       "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Min Group Count": 0,
+      "Max Group Count": 2
     }
   ],
   "Spawnable Monsters": [

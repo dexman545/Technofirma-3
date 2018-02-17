@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-3292 items registered
+4001 items registered
 7 filters loaded
-445 items matched in 42 ms
+448 items matched in 30 ms
 ----------------------------------------------------
 
 - bibliocraft :
@@ -318,6 +318,7 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ pampistachio:                             	hide:[]
 	+ pamplum:                                  	hide:[]
 	+ pampomegranate:                           	hide:[]
+	+ pamspiderweb:                             	hide:[]
 	+ pamstarfruit:                             	hide:[]
 	+ pamvanillabean:                           	hide:[]
 	+ pamwalnut:                                	hide:[]
@@ -387,6 +388,7 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ rawtofenisonitem:                         	hide:[]
 	+ rawtofickenitem:                          	hide:[]
 	+ rawtofishitem:                            	hide:[]
+	+ rawtofuduckitem:                          	hide:[]
 	+ rawtofurkeyitem:                          	hide:[]
 	+ rawtofuttonitem:                          	hide:[]
 	+ redvelvetcake:                            	hide:[]
@@ -407,6 +409,7 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ soggygarden:                              	hide:[]
 	+ soybeanseeditem:                          	hide:[]
 	+ spiceleafseeditem:                        	hide:[]
+	+ spiderweb_sapling:                        	hide:[]
 	+ spinachseeditem:                          	hide:[]
 	+ starfruit_sapling:                        	hide:[]
 	+ starfruitjellyitem:                       	hide:[]

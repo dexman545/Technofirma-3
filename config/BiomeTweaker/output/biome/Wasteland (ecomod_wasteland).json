@@ -20,18 +20,31 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HOT",
-    "WASTELAND",
-    "PLAINS",
     "RARE",
-    "DEAD",
     "SPOOKY",
-    "COLD",
+    "HOT",
+    "DEAD",
+    "SPARSE",
     "WET",
-    "SPARSE"
+    "WASTELAND",
+    "COLD",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
-  "Spawnable Creatures": [],
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
+      "Weight": 4,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    }
+  ],
   "Spawnable Monsters": [
     {
       "Entity Class": "net.minecraft.entity.monster.EntitySpider",

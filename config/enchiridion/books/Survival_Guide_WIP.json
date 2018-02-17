@@ -297,7 +297,7 @@
           "xPos": 23,
           "yPos": 96,
           "width": 51.0,
-          "height": 25.5,
+          "height": 51.0,
           "feature": {
             "class": "joshie.enchiridion.gui.book.features.FeatureRecipe",
             "properties": {
@@ -315,7 +315,7 @@
           "xPos": 81,
           "yPos": 96,
           "width": 46.0,
-          "height": 23.0,
+          "height": 46.0,
           "feature": {
             "class": "joshie.enchiridion.gui.book.features.FeatureRecipe",
             "properties": {
