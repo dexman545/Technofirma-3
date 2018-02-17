@@ -61,13 +61,13 @@
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowLargeBlack",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenOrpington",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -75,13 +75,13 @@
       "Entity Class": "com.animania.common.entities.amphibians.EntityToad",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 1
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.amphibians.EntityFrogs",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 1
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.peacocks.EntityPeacockCharcoal",
@@ -210,10 +210,16 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "nmd.primal.core.common.entities.living.EntityGator",
-      "Weight": 1,
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
+      "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 3
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
+      "Weight": 4,
+      "Min Group Count": 0,
+      "Max Group Count": 2
     }
   ],
   "Spawnable Monsters": [

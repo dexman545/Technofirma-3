@@ -1,5 +1,7 @@
 Version 3.1.0
 
+Forge 2611
+
 Made pit kilns take dry thatch instead of hay bales
 Disabled body temperature
 Enabled natural regeneration, but at half efectiveness
@@ -26,4 +28,11 @@ Lowered max transfer rate for copper and electrum wires
 Increased energy costs
 	Needs further tweaking
 Updated the Guidebook
-Switched FoamFIx to lawful version as ASM is a bitch
+Switched FoamFix to lawful version as ASM is a bitch
+Added Rustic
+Added BetweenLands
+Added Allomancy
+Disabled skeleton spawning
+Added terra clay to world gen as a means of easier clay obtaining
+Added Prospectus
+Added SwingThroughGrass

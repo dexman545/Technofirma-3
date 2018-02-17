@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "MOUNTAIN",
     "RARE",
     "SPOOKY",
     "DENSE",
-    "FOREST",
-    "MOUNTAIN"
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -60,37 +60,37 @@
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowOldSpot",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowLargeWhite",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowHampshire",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenPlymouthRock",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenWyandotte",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenRhodeIslandRed",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -98,13 +98,19 @@
       "Entity Class": "com.animania.common.entities.cows.EntityCowHolstein",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.cows.EntityCowHereford",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.animania.common.entities.cows.EntityCowHighland",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.goats.EntityDoeAlpine",
@@ -152,13 +158,7 @@
       "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "nmd.primal.core.common.entities.living.EntityBrownBear",
-      "Weight": 3,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Max Group Count": 5
     },
     {
       "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",

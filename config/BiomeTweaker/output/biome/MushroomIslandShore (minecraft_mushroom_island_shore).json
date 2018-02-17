@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MUSHROOM",
     "RARE",
-    "BEACH"
+    "BEACH",
+    "MUSHROOM"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -37,6 +37,12 @@
       "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.common.entities.cows.EntityCowMooshroom",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "net.darkhax.kelpie.entity.EntityKelpie",

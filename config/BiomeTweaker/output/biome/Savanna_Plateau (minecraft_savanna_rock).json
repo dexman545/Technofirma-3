@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HOT",
-    "PLAINS",
-    "RARE",
     "SPARSE",
-    "SAVANNA"
+    "HOT",
+    "RARE",
+    "SAVANNA",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -90,13 +90,13 @@
     },
     {
       "Entity Class": "com.animania.common.entities.pigs.EntitySowYorkshire",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.chickens.EntityHenLeghorn",
-      "Weight": 6,
+      "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -104,13 +104,13 @@
       "Entity Class": "com.animania.common.entities.cows.EntityCowFriesian",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.cows.EntityCowLonghorn",
       "Weight": 6,
       "Min Group Count": 1,
-      "Max Group Count": 2
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.animania.common.entities.goats.EntityDoeAngora",

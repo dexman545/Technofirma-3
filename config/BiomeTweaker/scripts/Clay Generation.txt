@@ -1,22 +1,11 @@
-all = forAllBiomes()
+splotch = newSplotchDecoration()
+splotch.setBlock("minecraft:glass")
+splotch.setCount(3)
+splotch.addBlockToReplace("minecraft:grass")
+splotch.addBlockToReplace("minecraft:dirt")
+splotch.addBaseBlock("minecraft:grass")
 
-Tweaker.setPlacementStage("POST_ORES")
-clayGen = newOreDecoration()
-clayGen.setCount(10)
-clayGen.setBlock("primal:terraclay_block")
-clayGen.setSize(40)
-clayGen.setBlockToReplace("minecraft:grass")
-clayGen.addBlockToReplace("minecraft:dirt")
-clayGen.addBlockToReplace("minecraft:dirt:1")
-
-all.addDecoration(clayGen)
-
-Tweaker.setPlacementStage("POST_ORES")
-hempGen = newClusterDecoration()
-hempGen.setCount(10)
-hempGen.setBlock("contenttweaker:hempflower")
-hempGen.setRadius(20)
-hempGen.addSoilBlock("minecraft:grass")
+allB = forAllBiomes()
+allB.addDecoration(splotch)
 
 
-all.addDecoration(hempGen)
