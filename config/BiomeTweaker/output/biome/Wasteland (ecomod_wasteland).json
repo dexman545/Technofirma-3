@@ -1,6 +1,6 @@
 
 {
-  "ID": 40,
+  "ID": 41,
   "Name": "Wasteland",
   "Resource Location": "ecomod:wasteland",
   "Class": "ecomod.common.world.gen.BiomeWasteland",
@@ -20,15 +20,15 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "RARE",
-    "SPOOKY",
-    "HOT",
-    "DEAD",
-    "SPARSE",
     "WET",
+    "DEAD",
+    "HOT",
+    "SPARSE",
+    "PLAINS",
     "WASTELAND",
-    "COLD",
-    "PLAINS"
+    "SPOOKY",
+    "RARE",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

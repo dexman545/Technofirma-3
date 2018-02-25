@@ -1,6 +1,6 @@
 
 {
-  "ID": 46,
+  "ID": 47,
   "Name": "Marsh 0",
   "Resource Location": "thebetweenlands:marsh_0",
   "Class": "thebetweenlands.common.world.biome.BiomeMarsh",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SWAMP",
     "WET",
+    "SWAMP",
     "WATER"
   ],
   "BiomeManager Entries": {},
